@@ -3,3 +3,5 @@
 data <- read.csv("indivData.csv")
 
 #test
+
+#Lukas
